@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import Link from "next/link";
 
 export default function NotFound() {
   return (
@@ -13,9 +14,9 @@ export default function NotFound() {
         variant="secondary"
         className="px-6 py-2 rounded-lg font-semibold shadow w-auto"
       >
-        <a href="/" aria-label="Go back to homepage">
+        <Link href="/" aria-label="Go back to homepage">
           Go to Homepage
-        </a>
+        </Link>
       </Button>
     </main>
   );
