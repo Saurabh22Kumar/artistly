@@ -1,0 +1,3 @@
+<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
+
+This project uses Next.js (v13+), TypeScript, Tailwind CSS, and ShadCN UI Kit. Please follow best practices for modular React component structure, responsiveness, and accessibility. Use local JSON for artist data and local state for new submissions. Image uploads are for local preview only and not persisted. Authentication is required for onboarding and dashboard pages. Prioritize code clarity, reusability, and maintainability.

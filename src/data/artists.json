@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "bio": "Award-winning Bollywood playback singer with 10+ years of experience.",
+    "category": ["Singer"],
+    "languages": ["Hindi", "English"],
+    "feeRange": "₹50,000 - ₹1,00,000",
+    "location": "Mumbai",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 2,
+    "name": "Meera Patel",
+    "bio": "Classical dancer specializing in Bharatanatyam and contemporary styles.",
+    "category": ["Dancer"],
+    "languages": ["Gujarati", "English"],
+    "feeRange": "₹30,000 - ₹80,000",
+    "location": "Ahmedabad",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 3,
+    "name": "Kabir Singh",
+    "bio": "Stand-up comedian and motivational speaker for corporate events.",
+    "category": ["Speaker"],
+    "languages": ["Hindi", "Punjabi"],
+    "feeRange": "₹40,000 - ₹90,000",
+    "location": "Delhi",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 4,
+    "name": "Simran Kaur",
+    "bio": "Popular DJ with a flair for Bollywood and EDM mixes.",
+    "category": ["DJ"],
+    "languages": ["English", "Punjabi"],
+    "feeRange": "₹60,000 - ₹1,20,000",
+    "location": "Chandigarh",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 5,
+    "name": "Rohan Verma",
+    "bio": "Energetic magician known for interactive stage shows.",
+    "category": ["Magician"],
+    "languages": ["Hindi", "English"],
+    "feeRange": "₹25,000 - ₹70,000",
+    "location": "Lucknow",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 6,
+    "name": "Priya Desai",
+    "bio": "Versatile singer and live band performer.",
+    "category": ["Singer", "Band"],
+    "languages": ["Marathi", "English"],
+    "feeRange": "₹55,000 - ₹1,10,000",
+    "location": "Pune",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 7,
+    "name": "The Rhythm Crew",
+    "bio": "Popular band for weddings and corporate events.",
+    "category": ["Band"],
+    "languages": ["Hindi", "English"],
+    "feeRange": "₹80,000 - ₹2,00,000",
+    "location": "Bangalore",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 8,
+    "name": "Ananya Joshi",
+    "bio": "Contemporary dancer and choreographer.",
+    "category": ["Dancer"],
+    "languages": ["English", "Hindi"],
+    "feeRange": "₹35,000 - ₹90,000",
+    "location": "Kolkata",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 9,
+    "name": "Vikram Sethi",
+    "bio": "Motivational speaker and leadership coach.",
+    "category": ["Speaker"],
+    "languages": ["Hindi", "English"],
+    "feeRange": "₹45,000 - ₹1,00,000",
+    "location": "Hyderabad",
+    "image": "/default-artist.png"
+  },
+  {
+    "id": 10,
+    "name": "DJ Rhea",
+    "bio": "EDM and Bollywood DJ, regular at top clubs.",
+    "category": ["DJ"],
+    "languages": ["English", "Hindi"],
+    "feeRange": "₹70,000 - ₹1,50,000",
+    "location": "Goa",
+    "image": "/default-artist.png"
+  }
+]
