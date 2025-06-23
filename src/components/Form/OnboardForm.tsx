@@ -58,7 +58,7 @@ export default function OnboardForm() {
       // Do not reset the form immediately to avoid hydration mismatch
       // reset();
       // setPreview(null);
-    } catch (error) {
+    } catch {
       showToast("Submission failed. Please try again.", "error");
     }
   }
