@@ -36,7 +36,7 @@ const feeRanges = [
 
 export default function OnboardForm() {
   const [preview, setPreview] = useState<string | null>(null);
-  const { register, handleSubmit, control, formState: { errors }, reset } = useForm<FormData>({
+  const { register, handleSubmit, control, formState: { errors } } = useForm<FormData>({
     resolver: zodResolver(schema),
     defaultValues: {
       category: [],
@@ -58,7 +58,7 @@ export default function OnboardForm() {
       // Do not reset the form immediately to avoid hydration mismatch
       // reset();
       // setPreview(null);
-    } catch (err) {
+    } catch (error) {
       showToast("Submission failed. Please try again.", "error");
     }
   }

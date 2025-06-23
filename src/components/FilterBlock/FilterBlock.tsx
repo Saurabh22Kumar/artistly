@@ -1,5 +1,4 @@
 "use client";
-import { useState, useEffect } from "react";
 import { useArtistFilter } from "../../context/ArtistFilterContext";
 import { Button } from "../ui/button";
 
